@@ -14,8 +14,29 @@
 ## Test Cases
 
 * Size = 1,000
+  <div align="left" >
+    <img width="50%" height="100%" alt="welcome to my profile!" src="https://github.com/mahmoudahmedibrahim5/GPU/blob/main/Screenshots/CPU_1.png">
+  </div>
+  </br>
+  <div align="left" >
+    <img width="50%" height="200%" alt="welcome to my profile!" src="https://github.com/mahmoudahmedibrahim5/GPU/blob/main/Screenshots/GPU_1.png">
+  </div>
 * Size = 5,000
+  <div align="left" >
+    <img width="50%" height="100%" alt="welcome to my profile!" src="https://github.com/mahmoudahmedibrahim5/GPU/blob/main/Screenshots/CPU_5.png">
+  </div>
+  </br>
+  <div align="left" >
+    <img width="50%" height="200%" alt="welcome to my profile!" src="https://github.com/mahmoudahmedibrahim5/GPU/blob/main/Screenshots/GPU_5.png">
+  </div>
 * Size = 10,000
+  <div align="left" >
+    <img width="50%" height="100%" alt="welcome to my profile!" src="https://github.com/mahmoudahmedibrahim5/GPU/blob/main/Screenshots/CPU_10.png">
+  </div>
+  </br>
+  <div align="left" >
+    <img width="50%" height="200%" alt="welcome to my profile!" src="https://github.com/mahmoudahmedibrahim5/GPU/blob/main/Screenshots/GPU_10.png">
+  </div>
 
 </br>
 
